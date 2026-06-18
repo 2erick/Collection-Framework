@@ -67,3 +67,10 @@ HashMap --|> Map
 LinkedHashMap --|> Map
 HashTable --|> Map
 ```
+
+
+Todas essas classe e interfaces então dentro do `java.utils`
+
+## Docs Collections Java
+
+[Collection (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
