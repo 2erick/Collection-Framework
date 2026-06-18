@@ -70,6 +70,29 @@ SortedMap ..|> Map
 
 TreeMap ..|> SortedMap
 
+ArrayList --|> List
+
+LinkedList --|> List
+
+Vector --|> List
+
+Stack ..|> Vector
+
+PriorityQueue --|> Queue
+
+ArrayDequeue --|> Dequeue
+
+HashSet --|> Set
+
+LinkedHashSet --|> Set
+
+TreeSet --|> SortedSet
+
+HashTable --|> Map
+
+LinkedHashMap --|> Map
+
+HashMap --|> Map
 
 ```
 
